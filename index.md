@@ -10,6 +10,7 @@
 2. Step 2: Lenders, start listing your unused clothing items! Receviers, go to our _Rental Closet_ tab and begin your journey!
 
 _Compare with other clothing rentals_
+
 Coatable | Rent-the-Runway | Anotha One
 ------------ | -------------
 Winter Clothes | Primarily feminine | Blah Blah blah
