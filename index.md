@@ -8,3 +8,9 @@
   * Lenders: Create an account under the title of "Lender"
   * Receiver: Create an account under the title of "Receiver"
 2. Step 2: Lenders, start listing your unused clothing items! Receviers, go to our _Rental Closet_ tab and begin your journey!
+
+_Compare with other clothing rentals_
+Coatable | Rent-the-Runway | Anotha One
+------------ | -------------
+Winter Clothes | Primarily feminine | Blah Blah blah
+Month-by-month rentals | 4 day rentals | Balbbity Blah
