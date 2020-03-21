@@ -11,7 +11,7 @@
 
 _Compare with other clothing rentals_
 
-Coatable | Rent-the-Runway | Anotha One
+_Coatable_ | _Rent-the-Runway_ | _Anotha One_
 ------------ | -------------
 Winter Clothes | Primarily feminine | Blah Blah blah
 Month-by-month rentals | 4 day rentals | Balbbity Blah
